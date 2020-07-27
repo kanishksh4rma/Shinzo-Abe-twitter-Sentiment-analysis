@@ -6,10 +6,12 @@
 
 ### Twitter’s 139 million daily active users interact with brands on the network in important ways, from retweeting your content to a broader audience to making purchases that directly impact your bottom line. If you’re not using Twitter analytics, you’re missing out on key Twitter insights that could help you refine your strategy and maximize ROI.
 
+---
+
 ### Objective
 
-> * Understand Contextual understanding and tone
-> * Visualize the sentiments behind the tweets.
+### > * Understand Contextual understanding and tone
+### > * Visualize the sentiments behind the tweets.
 
 ---
 
