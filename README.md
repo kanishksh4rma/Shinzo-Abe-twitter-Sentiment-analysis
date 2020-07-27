@@ -63,7 +63,7 @@ git clone https://github.com/kanishksh4rma/Shinzo-Abe-twitter-Sentiment-analysis
 
 > Dataset Source : [Kaggle](https://www.kaggle.com/team-ai/shinzo-abe-japanese-prime-minister-twitter-nlp)
 
-> Developed by : [Kanishk sharma](github.com/kanishksh4rma)
+> Developed by : [Kanishk sharma](https://github.com/kanishksh4rma)
   
 --- 
 
