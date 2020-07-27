@@ -10,8 +10,8 @@
 
 ## Objective
 
-> ### * Understand Contextual understanding and tone
-> ### * Visualize the sentiments behind the tweets.
+> * Understand Contextual understanding and tone
+> * Visualize the sentiments behind the tweets.
 
 ---
 
@@ -55,9 +55,9 @@ git clone https://github.com/kanishksh4rma/Shinzo-Abe-twitter-Sentiment-analysis
 
 ## About Dataset
 
-# This dataset contains Japanese Prime Minister Tweet. Japanese culture, diplomatic problem ( North Korea and Tramp etc), time of disaster, economics…
+### This dataset contains Japanese Prime Minister Tweet. Japanese culture, diplomatic problem ( North Korea and Tramp etc), time of disaster, economics…
 
-# For example,14.April 2014 "Removing radiation contaminated water in all weather, 365/24 at Fukushima. I am deeply thankful for dedication and commitment of our peers." Maybe if you analyze his tweets about Japanese economy this data will be useful for stock price forecasting etc.
+### For example,14.April 2014 "Removing radiation contaminated water in all weather, 365/24 at Fukushima. I am deeply thankful for dedication and commitment of our peers." Maybe if you analyze his tweets about Japanese economy this data will be useful for stock price forecasting etc.
 
 ---
 
