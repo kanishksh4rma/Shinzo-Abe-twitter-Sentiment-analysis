@@ -49,6 +49,13 @@ git clone https://github.com/kanishksh4rma/Shinzo-Abe-twitter-Sentiment-analysis
 
 ![Screenshot 4](/screenshots/ss4.png)
 
+## About Dataset
+
+# This dataset contains Japanese Prime Minister Tweet. Japanese culture, diplomatic problem ( North Korea and Tramp etc), time of disaster, economics…
+
+# For example,14.April 2014 "Removing radiation contaminated water in all weather, 365/24 at Fukushima. I am deeply thankful for dedication and commitment of our peers." Maybe if you analyze his tweets about Japanese economy this data will be useful for stock price forecasting etc.
+
+---
 
 > Dataset Source : [Kaggle](https://www.kaggle.com/team-ai/shinzo-abe-japanese-prime-minister-twitter-nlp)
 
@@ -57,4 +64,3 @@ git clone https://github.com/kanishksh4rma/Shinzo-Abe-twitter-Sentiment-analysis
 ---
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kanishksh4rma/World-Happiness-Index-2020--data-visualization)
-
