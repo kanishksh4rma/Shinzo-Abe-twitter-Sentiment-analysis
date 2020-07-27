@@ -43,13 +43,15 @@ git clone https://github.com/kanishksh4rma/Shinzo-Abe-twitter-Sentiment-analysis
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/ss1.png)
-
-![Screenshot 2](/screenshots/ss2.png)
+![Screenshot 4](/screenshots/ss4.png)
 
 ![Screenshot 3](/screenshots/ss3.png)
 
-![Screenshot 4](/screenshots/ss4.png)
+![Screenshot 2](/screenshots/ss2.png)
+
+![Screenshot 1](/screenshots/ss1.png)
+
+
 
 ## About Dataset
 
@@ -63,6 +65,7 @@ git clone https://github.com/kanishksh4rma/Shinzo-Abe-twitter-Sentiment-analysis
 
 > Developed by : [Kanishk sharma](github.com/kanishksh4rma)
   
----
+--- 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kanishksh4rma/World-Happiness-Index-2020--data-visualization)
+ 
